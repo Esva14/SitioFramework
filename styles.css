@@ -1,0 +1,23 @@
+.carousel img {
+    max-height: 500px;
+    min-height: 300px;
+    object-fit: cover;
+  }
+  
+  .card-img-top {
+    max-height: 250px;
+    min-height: 150px;
+    object-fit: cover;
+  }
+
+  .img-fluid {
+    max-height: 400px;
+    min-height: 200px;
+    object-fit: cover;
+  }
+
+  .object-fit-cover {
+    max-height: 400px;
+    min-height: 250px;
+    object-fit: cover;
+  }
